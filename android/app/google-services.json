@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932892541456",
+    "project_id": "growmandi-839e3",
+    "storage_bucket": "growmandi-839e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932892541456:android:49cee8bdbfb2515e678095",
+        "android_client_info": {
+          "package_name": "com.growmandi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932892541456-kc5si11u1dtblpgdg53in4h8oauie5fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYhg5lVaamZpLErhG94NN8nC-_CIlt1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932892541456-kc5si11u1dtblpgdg53in4h8oauie5fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
