@@ -8,22 +8,13 @@
 
 import React,{useEffect,useState} from 'react';
 import {
-  SafeAreaView,
   StyleSheet,
-  ScrollView,
   View,
   Image,
   Text,
-  StatusBar,
 } from 'react-native';
 
-import {
-  Header,
-  LearnMoreLinks,
-  Colors,
-  DebugInstructions,
-  ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen';
+
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator, HeaderTitle} from '@react-navigation/stack';
 import LoginPage from './pages/LoginPage';
